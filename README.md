@@ -2,7 +2,7 @@
 
 My Journeyman's Piece is 🇬🇧 POInterest - London Airbnb Explorer 🇬🇧
 
-An ETL Tool, which filters the perfect neighbourhood for specific traveller types out of Airbnb, Google Maps & Open Street Map.
+A Tool, which filters the perfect neighbourhood for specific traveller types out of Airbnb, Google Maps & Open Street Map.
 It is visualized as a Tableau Dashboard, which: 
 
 <p>(1) filters your individual needs and interests</p>
