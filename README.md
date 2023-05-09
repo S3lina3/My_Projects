@@ -2,7 +2,7 @@
 
 My Journeyman's Piece is 🇬🇧 POInterest - London Airbnb Explorer 🇬🇧
 
-A Tool, which filters the perfect neighbourhood for specific traveller types out of Airbnb, Google Maps & Open Street Map via Overpass API Pipeline & Selenium. It is visualized as a Tableau Dashboard, which: 
+A tool that uses Overpass API & Selenium to find the optimal environment of Airbnbs for specific traveler types out of Airbnb, Openstreetmaps & Google Maps. It is visualized with a Tableau Dashboard which:
 
 <p>(1) filters your individual needs and interests</p>
 <p>(2) checks for fair prices and good ratings via linear regression</p>
@@ -12,6 +12,6 @@ A Tool, which filters the perfect neighbourhood for specific traveller types out
 
 [Dashboard](https://public.tableau.com/views/POInterest-LondonAirbnbExplorer/FINALDASHBOARD?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
 
-![Dashboard Screenshot](https://github.com/S3lina3/My_Projects/blob/main/London_Airbnb_Explorer_Dashboard.png)
+![Dashboard Screenshot](https://github.com/S3lina3/My_Projects/blob/main/Journeymans_Piece_Dashboard_London_Airbnb_Explorer.png)
 
 
