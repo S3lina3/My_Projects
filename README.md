@@ -12,4 +12,6 @@ A Tool, which filters the perfect neighbourhood for specific traveller types out
 
 [Dashboard](https://public.tableau.com/views/POInterest-LondonAirbnbExplorer/FINALDASHBOARD?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
 
+![Dashboard Screenshot](https://github.com/S3lina3/My_Projects/blob/main/London_Airbnb_Explorer_Dashboard.png)
+
 
