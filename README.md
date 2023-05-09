@@ -1,4 +1,4 @@
-### Here you can find my Projects as an Data Analytics Trainee ### 
+### Here you can find my Projects as a Data Analytics Trainee ### 
 
 My Journeyman's Piece is 🇬🇧 POInterest - London Airbnb Explorer 🇬🇧
 
